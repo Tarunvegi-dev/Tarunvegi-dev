@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Tarunvegi
-- 👀 I’m interested in app development and web development
-- 🌱 I’m currently learning app development
 - 📫 you can email me on vegitarun1234@gmail.com
 
 <!---
